@@ -68,3 +68,5 @@ The dataset used for this analysis includes the following columns:
 
 - **Bike_Sales_Analysis.xlsx**: The main Excel workbook containing all the data, pivot tables, charts, and the dashboard.
 - **README.md**: This file, containing an overview of the project and instructions.
+
+- ![Dashboard Screenshot](Dashboard.JPG)
