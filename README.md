@@ -1,4 +1,4 @@
-# Bike-Sales-Analysis-Dashboard
+# Bike-Sales-Analysis-Excel
 
 This project is an interactive dashboard built using Excel, designed to analyze and visualize bike sales data. The primary objective of this project is to provide insights into various factors influencing bike purchases, such as gender, age, income, and other demographic details. The dashboard presents data in a user-friendly format with visualizations and slicers for dynamic interaction.
 
